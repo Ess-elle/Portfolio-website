@@ -64,4 +64,5 @@ export const links = [
     "TypeScript",
     "React",
     "Git",
+    "Figma",
   ] as const;
